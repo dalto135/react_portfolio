@@ -3,7 +3,7 @@ version: '3.7'
 services:
 
   sample:
-    container_name: react-portfolio
+    container_name: react_portfolio
     build:
       context: .
       dockerfile: Dockerfile
